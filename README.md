@@ -6,8 +6,8 @@
 <br>
     <img src="https://img.shields.io/github/license/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/Raflynot/RaflyMusicBot?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/Raflynot/RaflyMusicBot?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/repo-size/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/notreallsyikhar/YukkiMusicBot?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/stars/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/watchers/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/commit-activity/w/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Commit Activity">
@@ -30,7 +30,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/Raflynot/RaflyMusicBot/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-blueviolet?style=for-the-badge" width="250""/</a>
+<a href="https://github.com/notreallyshikar/YukkiMusicBot/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-blueviolet?style=for-the-badge" width="250""/</a>
 </p>
     
 <h2 align="center">
